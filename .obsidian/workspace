@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "f42d0747ef284c2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "3551902bd5d5cd45",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a298810395c0aa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e227fc83a625c31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac1570132aa7a177",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7884ce5b62632d7d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Nombre",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1144fbc046072419",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 236.5
+  },
+  "right": {
+    "id": "59bce4bd6aa81839",
+    "type": "split",
+    "children": [
+      {
+        "id": "86e0b0aa52ab9638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ea3d4bdd43cb8fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a1e291e392c31dc2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb4faaaabca4d223",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d593541d01ec6f36",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3551902bd5d5cd45",
+  "lastOpenFiles": [
+    "Examen 1er parcial/Pico CTF 2019/whats a net cat.md",
+    "Examen 1er parcial/Pico CTF 2019/Warmed up.md",
+    "Examen 1er parcial/Pico CTF 2019/Strings it.md",
+    "Examen 1er parcial/Pico CTF 2019/Plumbing.md",
+    "Examen 1er parcial/Pico CTF 2019/2Warm.md",
+    "Examen 1er parcial/Pico CTF 2019/Lets Warm Up.md",
+    "Examen 1er parcial/Pico CTF 2019/First Grep.md",
+    "Examen 1er parcial/Pico CTF 2019/Bases.md",
+    "Examen 1er parcial/Pico CTF 2019/Based.md",
+    "Examen 1er parcial/PicoCTF 2021/Magik.md"
+  ]
+}
