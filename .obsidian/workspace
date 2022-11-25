@@ -7,12 +7,8 @@
         "id": "b914570df23fc79d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Tarea 5/SQLLite.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 270.5
   },
   "right": {
     "id": "59bce4bd6aa81839",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tarea 5/SQLLite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tarea 5/SQLLite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Tarea 5/SQLLite.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -128,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b914570df23fc79d",
+  "active": "ac1570132aa7a177",
   "lastOpenFiles": [
-    "Tarea 5/SQL Direct.md",
-    "Tarea 5/Secrets.md",
-    "Tarea 5/Roboto Sans.md",
-    "Tarea 5/Power Cookie.md",
-    "Tarea 5/Forbidden Paths.md",
-    "Tarea 5/Search Source.md",
-    "Tarea 5/Local Authority.md",
-    "Tarea 5/Inspect HTML.md",
-    "Tarea 5/Includes.md",
-    "Tarea 5/SQLLite.md"
+    "Tarea 10 Retos Reversing/unpackme.py.md",
+    "Tarea 10 Retos Reversing/Safe Opener.md",
+    "Tarea 10 Retos Reversing/patchme.py.md",
+    "Tarea 10 Retos Reversing/GDB Test Drive.md",
+    "Tarea 10 Retos Reversing/file-run2.md",
+    "Tarea 10 Retos Reversing/file-run1.md",
+    "Actividad 14 Retos Reversing parte 1/vault-door-4.md",
+    "Actividad 14 Retos Reversing parte 1/vault-door-3.md",
+    "Actividad 14 Retos Reversing parte 1/vault-door-1.md",
+    "Actividad 14 Retos Reversing parte 1/vault-door-training.md"
   ]
 }
